@@ -6,7 +6,10 @@
 	box-sizing: border-box;
 	font-family: 'Times New Roman';
     text-align: center;
-    background-color: cadetblue;
+}
+
+header, main, footer{
+    background-color: yellow;
 }
 
 header{
